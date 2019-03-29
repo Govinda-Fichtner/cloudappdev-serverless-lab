@@ -1,3 +1,4 @@
+// some comment
 function main(params) {
     return {
         params: {
